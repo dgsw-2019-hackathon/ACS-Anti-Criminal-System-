@@ -1,0 +1,10 @@
+C:\Users\dltmd\source\repos\ACS\ACS\bin\Debug\ACS.exe.config
+C:\Users\dltmd\source\repos\ACS\ACS\bin\Debug\ACS.exe
+C:\Users\dltmd\source\repos\ACS\ACS\bin\Debug\ACS.pdb
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.csprojAssemblyReference.cache
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.Form1.resources
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.Properties.Resources.resources
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.csproj.GenerateResource.cache
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.exe
+C:\Users\dltmd\source\repos\ACS\ACS\obj\Debug\ACS.pdb
